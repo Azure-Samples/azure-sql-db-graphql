@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJFiwlzzo9VLI3NLVHrKhJgfO2TOMdsp9tbiByXhBN3qfaExV/i+Ppqpyl6uJL2Jh3PkMYApdacjEuONSDUj+g==",
+  "success": true,
+  "projectFilePath": "/home/scoriani/repos/sqldb-graphql/sqldb-graphql-client/graphqlclient.csproj",
+  "expectedPackageFiles": [
+    "/home/scoriani/.nuget/packages/graphql.client/3.0.3/graphql.client.3.0.3.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/graphql.client.abstractions/3.1.0/graphql.client.abstractions.3.1.0.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/graphql.client.abstractions.websocket/3.1.0/graphql.client.abstractions.websocket.3.1.0.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/graphql.client.serializer.newtonsoft/3.1.0/graphql.client.serializer.newtonsoft.3.1.0.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/graphql.primitives/3.1.0/graphql.primitives.3.1.0.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/scoriani/.nuget/packages/system.reactive/4.3.2/system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
