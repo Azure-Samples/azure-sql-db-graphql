@@ -17,8 +17,8 @@ products:
 - vs-code
 - azure-sql-database
 - azure-functions
-description: "GraphQL Azure SQL Samples"
-urlFragment: "sqldb-graphql"
+description: "A set of samples to show how you can create GraphQL solution using Azure SQL"
+urlFragment: "azure-sql-db-graphql"
 ---
 
 # Azure SQL & GraphQL Samples
@@ -33,7 +33,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-A set of samples to show you can can create GraphQL solution using Azure SQL and some of the well-know libraries for many different languages.
+A set of samples to show how you can create GraphQL solution using Azure SQL and some of the well-know libraries for many different languages.
 
 ## Install Sample Database
 
