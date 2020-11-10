@@ -17,7 +17,7 @@ products:
 - vs-code
 - azure-sql-database
 - azure-functions
-description: "GraphSQL Azure SQL Samples"
+description: "GraphQL Azure SQL Samples"
 urlFragment: "sqldb-graphql"
 ---
 
