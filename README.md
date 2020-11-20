@@ -4,6 +4,7 @@ languages:
 - tsql
 - sql
 - csharp
+- nodejs
 products:
 - azure-sql-database
 - azure
