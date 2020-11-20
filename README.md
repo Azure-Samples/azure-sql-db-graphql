@@ -3,20 +3,8 @@ page_type: sample
 languages:
 - tsql
 - sql
-- aspx-csharp
-- json
-- python
-- nodejs
 products:
-- azure
-- dotnet
-- aspnet
-- dotnet-core
-- aspnet-core
-- azure-api-apps
-- vs-code
 - azure-sql-database
-- azure-functions
 description: "A set of samples to show how you can create GraphQL solution using Azure SQL"
 urlFragment: "azure-sql-db-graphql"
 ---
