@@ -9,7 +9,6 @@ products:
 - azure-sql-database
 - azure
 - dotnet
-- dotnet-core
 - azure-functions
 description: "A set of samples to show how you can create GraphQL solution using Azure SQL"
 urlFragment: "azure-sql-db-graphql"
